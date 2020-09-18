@@ -1,16 +1,14 @@
-### Hi there 👋
+### 💻Full-Stack Web Developer
 
-<!--
-**eunche/eunche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 경상대학교 컴퓨터과학과 학부생
+* 멋쟁이 사자처럼 7기
+* 멋쟁이 사자처럼 8기 운영진
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔨Interest
+
+* Django
+* DjangoRESTframework
+* HTML/CSS
+* JavaScript/ES6
+* React
