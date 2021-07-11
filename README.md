@@ -5,7 +5,7 @@
 * 경상대학교 멋쟁이 사자처럼 8기 운영진
 
 
-## 🔨Interest
+## 🔨Interests
 
 * Django
 * DjangoRESTframework
