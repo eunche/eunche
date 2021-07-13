@@ -1,4 +1,4 @@
-## 💻Full-Stack Web Developer
+## 💻Web Developer
 
 * 경상대학교 컴퓨터과학과 학부생
 * 경상대학교 멋쟁이 사자처럼 7기
